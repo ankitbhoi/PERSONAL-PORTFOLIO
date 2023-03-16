@@ -438,14 +438,14 @@ a {
 
 #project2 {
   margin-left: 120px;
-  background-image: url(images/PROJECTS/Project2.png);
+  background-image: url(images/PROJECTS/GITHUBCARD.jpeg);
 }
 #project3 {
-  background-image: url(images/PROJECTS/Project3.png);
+  background-image: url(images/PROJECTS/tictactoe.jpeg);
 }
 #project4 {
   margin-left: 120px;
-  background-image: url(images/PROJECTS/Project4.png);
+  background-image: url(images/PROJECTS/entertainment.jpeg);
 }
 
 .skills-container {
