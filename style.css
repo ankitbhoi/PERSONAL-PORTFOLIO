@@ -404,7 +404,7 @@ a {
 .project-subHeading {
   width: 70%;
   font-size: 16px;
-  font-style: italic;
+  /* font-style: italic; */
 }
 
 .btn-grp {
@@ -433,7 +433,7 @@ a {
 }
 
 #project1 {
-  background-image: url(https://i.postimg.cc/52nk7BS6/tindogfinal.jpg);
+  background-image: url(images/PROJECTS/TopCourses.jpeg);
 }
 
 #project2 {
